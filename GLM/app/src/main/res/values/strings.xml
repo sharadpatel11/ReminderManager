@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GLM</string>
+    <string name="your_lists">Your Reminder Lists</string>
+    <string name="your_reminders">Your Reminders</string>
+    <string name="completed">Completed</string>
+    <string name="reminder_name_hint">Enter a name for the reminder</string>
+    <string name="reminder_type_hint">Enter a type for the reminder</string>
+    <string name="reminder_time_label">TIME</string>
+    <string name="btn_set_time_hint">Set Time</string>
+    <string name="reminder_name_label">NAME</string>
+    <string name="reminder_type">Reminder Type</string>
+    <string name="reminder_type_label">TYPE</string>
+    <string name="reminder_weekday_label">DAY OF WEEK</string>
+    <string name="btn_set_reminder">Set reminder</string>
+    <string name="delete_reminder">Delete Reminder</string>
+    <string name="log_in">Log In</string>
+    <string name="dont_have_account">Don`t have an account?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="name_reminder_list">Name of reminder list</string>
+    <string name="password">Password</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">0vHGzUBqBRp60Ia2rjjVNE1MYn8Zluh6rPDa6BxK</string>
+    <string name="back4app_client_key">KQrVaanIYfW9O0fS3qwvS8wq8BlogRT1CobJMRA1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
